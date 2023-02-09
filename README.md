@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:
 -->
--👋 Hi, I’m @flamingo1332
--👀 I’m interested in ... Software Engineering / Data Science
--🌱 I’m currently learning AWS
+- 👋 Hi, I’m @flamingo1332
+- 👀 I’m interested in ... Software Engineering / Data Science
+- 🌱 I’m currently learning AWS
+
+
 
